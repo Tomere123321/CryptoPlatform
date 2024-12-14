@@ -1,2 +1,2 @@
 # CryptoPlatform
-Crypto Platform To Watch Live Prices
+Live Crypto Prices at Your Fingertips
